@@ -10,7 +10,7 @@ The main goal of this project is to determine how casual riders and members of C
 
 Data structure
 
-The data has been provided by Motivate International Inc. and can be downloaded from this link. The data is available in csv format with column names as:
+The data has been provided by Motivate International Inc. and can be downloaded from this link - https://divvy-tripdata.s3.amazonaws.com/index.html. The data is available in csv format with column names as:
 
 cols(
 
